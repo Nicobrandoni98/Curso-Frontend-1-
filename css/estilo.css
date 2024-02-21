@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 } */
+div {
+    background: #3abdbdf3;
+}
+.titulo {
+    background: #331d33;
+}
+#enlace {
+    background: red;
+    color: green;
+}

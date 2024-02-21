@@ -1,0 +1,18 @@
+* {
+    background: grey;
+}
+div p {
+    color: lime;
+}
+div > div {
+    background: firebrick;
+}
+.es {
+    background: blue;
+}
+div + section {
+    background: darkgreen;
+}
+div ~ p {
+    color: powderblue;
+}
