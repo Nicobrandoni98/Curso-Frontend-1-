@@ -1,0 +1,7 @@
+div {
+    margin: 20px;
+}
+.container {
+    display: grid;
+    flex-direction: column;
+}

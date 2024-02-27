@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+div {
+    width: 20px;
+    height: 20px;
+    background: yellowgreen;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 20px;
+}
