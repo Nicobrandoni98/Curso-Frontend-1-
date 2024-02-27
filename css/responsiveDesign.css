@@ -1,0 +1,8 @@
+div {
+    background: brown;
+}
+@media (min-width: 300px) {
+    div {
+        background: rgb(245, 0, 0);
+    }
+}
